@@ -13,7 +13,7 @@ gcc -s -O3 -lm cntr.c -o cntr
 ```bash
 sudo cp cntr /usr/bin
 ```
-### A (senseless) example:
+### An (senseless) example:
 ```bash
 ifconfig | cntr
           enp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
