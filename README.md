@@ -36,3 +36,4 @@ ifconfig | cntr
                            TX packets 2  bytes 160 (160.0 B)
                TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 ```
+**File "cntr" is a compiled Linux x86_64 binary**
