@@ -13,7 +13,7 @@ gcc -s -O3 -lm cntr.c -o cntr
 ```bash
 sudo cp cntr /usr/bin
 ```
-### An (senseless) example:
+### An example:
 ```bash
 > cal | cntr
                                    April 2025
